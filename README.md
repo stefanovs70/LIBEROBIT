@@ -1,1 +1,2 @@
-# power by LIBEROBIT srl
+# power by LIBEROBIT s.r.l.
+s.serati@liberobit.it
