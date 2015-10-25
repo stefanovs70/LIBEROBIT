@@ -1,0 +1,14 @@
+var pets = '{"pets":[{"name":"jack"},{"name":"john"},{"name":"joe"}]}';
+var arr = JSON.parse(pets);
+alert(arr.pets[0].name);
+
+pets = '[{"name":"jack"},{"name":"john"},{"name":"joe"}]';
+var arr = JSON.parse(pets);
+alert(arr[0].name);
+
+
+
+
+
+Vedi array
+http://www.w3schools.com/js/js_obj_array.asp
