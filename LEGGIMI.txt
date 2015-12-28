@@ -1,18 +1,5 @@
+Hello Liberobit!!!
 
-
----bootstrap
-
-http://kiranpatils.wordpress.com/2014/02/15/bootstrap-with-asp-net-basics-and-learnings/
-vs2013
-http://www.asp.net/visual-studio/overview/2013/creating-web-projects-in-visual-studio#bootstrap
->vs2013
-http://elbruno.com/2013/10/02/vs2013-howto-create-a-website-project-in-visual-studio-using-bootstrap/
-http://www.sitepoint.com/understanding-twitter-bootstrap-3/
->vs2015
-http://weblogs.asp.net/scottgu/released-today-visual-studio-2015-asp-net-4-6-asp-net-5-ef-7-previews
-
-Design in Browser" workflow with LiveReload and Sublime
-https://www.youtube.com/watch?v=Cf7VFce3BjE
 
 
 
